@@ -1,0 +1,2 @@
+### A program három feladat megoldását tartalmazza. 
+### A mágikus négyzet feladatnál megadhatunk saját file-t is, ebben az esetben fontos, hogy a file a program gyökérkönyvtárában legyen és a számok között 1 db space-nek kell lenni.  
